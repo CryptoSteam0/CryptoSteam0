@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 Day 3 Good 
 Day 4 Work
-
+Day 5 Rest
 <!---
 CryptoSteam0/CryptoSteam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
