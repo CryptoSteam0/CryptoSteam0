@@ -20,7 +20,8 @@ Day 14 Work
 Day 15 Work
 Day 16 Work
 Day 17 Work / Rest
-Day 17 Work
+Day 18 Work
+Day 19 Work
 <!---
 CryptoSteam0/CryptoSteam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
