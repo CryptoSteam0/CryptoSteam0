@@ -71,6 +71,7 @@ Day 65 Work
 Day 66 Work
 Day 67 Work
 Day 68 Work
+Day 69 Work
 <!---
 CryptoSteam0/CryptoSteam0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
